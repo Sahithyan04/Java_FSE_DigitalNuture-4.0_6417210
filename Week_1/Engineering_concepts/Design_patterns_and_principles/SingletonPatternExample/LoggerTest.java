@@ -5,6 +5,9 @@ public class LoggerTest {
         Logger logger1 = Logger.getInstance();
         Logger logger2 = Logger.getInstance();
 
+        logger1.log("This is logger 1");
+        logger2.log("This is logger 2");
+
 
         if (logger1 == logger2) {
             System.out.println("Same Instances Confirmed");
