@@ -1,5 +1,7 @@
 package Week_1.Engineering_concepts.Design_patterns_and_principles.FactoryMethodPatternExample;
 
+//this test if the program is working correct or not
+ 
 public class FactoryTest {
     public static void main(String[] args) {
         DocumentFactory WordFac = new WordDocumentFactory();

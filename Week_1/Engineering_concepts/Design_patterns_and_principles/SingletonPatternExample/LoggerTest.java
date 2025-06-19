@@ -1,5 +1,6 @@
 package Week_1.Engineering_concepts.Design_patterns_and_principles.SingletonPatternExample;
 
+// this is for testing this singleton pattern exercise
 public class LoggerTest {
     public static void main(String[] args) {
         Logger logger1 = Logger.getInstance();

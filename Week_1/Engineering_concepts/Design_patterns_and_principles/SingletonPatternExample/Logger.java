@@ -8,7 +8,8 @@ public class Logger {
     }
     
     public static Logger getInstance() {
-
+        // only create a new one if nothing is there
+        // it states Lazy method
         if (instance == null) {
             instance = new Logger();
         
