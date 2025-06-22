@@ -1,4 +1,4 @@
-package Week_1.Engineering_concepts.Data_Structures_and_Algorithms.FinancialForecaster;
+package Week_1_Data_Structures_and_Algorithms.Handson_7_FinancialForecaster.code;
 
 public class TheForecaster {
 

@@ -1,4 +1,5 @@
-package Week_1.Engineering_concepts.Data_Structures_and_Algorithms.EcommerceSearchFunction;
+package Week_1_Data_Structures_and_Algorithms.Handson_2_EcommerceSearchFunction.code;
+
 
 public class Product {
     int productId;
