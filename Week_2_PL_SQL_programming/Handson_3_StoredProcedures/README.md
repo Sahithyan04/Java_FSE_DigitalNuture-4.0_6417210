@@ -1,8 +1,8 @@
-# 🏦 Bank Procedures - PL/SQL
+#  Bank Procedures - PL/SQL
 
 This repo contains 3 stored procedures to simulate basic banking operations.
 
-## 🚀 Procedures
+##  Procedures
 
 ### 1. ProcessMonthlyInterest
 Applies 1% monthly interest to all `Savings` accounts by updating their balances.
@@ -13,13 +13,13 @@ Increases salary of employees in a given department based on a bonus percentage 
 ### 3. TransferFunds
 Transfers funds between two accounts after verifying the source has sufficient balance.
 
-## 🔧 Usage
+##  Usage
 
 - `EXEC ProcessMonthlyInterest;`
 - `EXEC UpdateEmployeeBonus('Sales', 10);`
 - `EXEC TransferFunds(1, 2, 500);`
 
-## 📌 Notes
+##  Notes
 
 - Ensure `Accounts` and `Employees` tables exist with correct structure.
 - Use `SET SERVEROUTPUT ON;` to view outputs.
