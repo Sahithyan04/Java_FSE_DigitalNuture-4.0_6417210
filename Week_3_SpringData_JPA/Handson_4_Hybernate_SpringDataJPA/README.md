@@ -31,7 +31,7 @@ This is a theoretical comparison of the **three main persistence approaches** in
 
 ---
 
-## 🧠 TL;DR Comparison
+##  Comparison
 
 | Feature              | Hibernate        | JPA               | Spring Data JPA         |
 |----------------------|------------------|--------------------|--------------------------|
